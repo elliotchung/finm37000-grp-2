@@ -3,7 +3,7 @@
 ## C1. Identify and document data sources
 - **Goal:** Decide exactly which data the project needs and where it comes from.
 - **Acceptance criteria:** README "Data" section lists the sources, fields, frequency, date range, and access method. Any API keys are documented in `.env.example` (never committed).
-- **Labels:** `data`, `docs`
+- **Labels:** `data`, `documentation`
 
 ## C2. Implement data loader
 - **Goal:** A function `load_raw(...)` in `src/finm37000_grp2/data.py` that downloads or reads raw data into `data/raw/`.

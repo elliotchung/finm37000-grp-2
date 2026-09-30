@@ -36,7 +36,7 @@ To make contributions equal and **visible on GitHub**, every member has:
       (package layout, `pyproject.toml`, tests, CI, templates).
 - [ ] Add Members B, C, and D as collaborators, or confirm they have forked.
 - [ ] Set branch protection on `main` so changes require a PR and at least one approval.
-- [ ] Create issue labels (`data`, `analysis`, `infra`, `docs`, `part-1`).
+- [ ] Create issue labels (`data`, `analysis`, `infra`, `documentation`, `part-1`).
 - [ ] Post the repo link on the team channel, and confirm each member has forked and cloned it.
 - [ ] Merge the README PR once **all four** members have approved it.
 
@@ -72,7 +72,7 @@ project pipeline, from clean data to the final deliverable.
       analysis/model, evaluation/testing, visualization/reporting, and the
       final entry point/documentation.
 - [ ] Give each issue a goal, acceptance criteria, dependencies, and a suggested owner.
-- [ ] Label the issues `analysis` or `docs`, and link dependencies on Member C's issues.
+- [ ] Label the issues `analysis` or `documentation`, and link dependencies on Member C's issues.
 - [ ] Make sure that completing all the issues leads to the outcome described in the README.
 
 > Draft issue outlines for Members C and D are in

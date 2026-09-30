@@ -16,10 +16,10 @@
 - **Goal:** Produce the figures and tables that communicate the result.
 - **Acceptance criteria:** A script or notebook that regenerates all outputs into `reports/` from a single command.
 - **Blocked by:** D1
-- **Labels:** `analysis`, `docs`
+- **Labels:** `analysis`, `documentation`
 
 ## D4. Final deliverable and documentation
 - **Goal:** Wire everything into the entry point and update the README "How to Run" section so that it is accurate.
 - **Acceptance criteria:** A fresh clone followed by `uv sync && uv run python -m finm37000_grp2` reproduces the results.
 - **Blocked by:** C4, D3
-- **Labels:** `docs`
+- **Labels:** `documentation`
