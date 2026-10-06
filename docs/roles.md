@@ -5,10 +5,10 @@ and GitHub handles once roles are agreed.
 
 | Placeholder | Name | GitHub | Part 1 Role |
 |-------------|------|--------|-------------|
-| Member A | TODO | @TODO | Tech Lead |
-| Member B | TODO | @TODO | Communication Lead |
-| Member C | TODO | @TODO | Design Lead — Data & Infrastructure |
-| Member D | TODO | @TODO | Design Lead — Analysis & Deliverables |
+| Member A | Elliot Chung | @elliotchung | Tech Lead |
+| Member B | Vidhi Jain | @vidhijain28 | Communication Lead |
+| Member C | Divyaa Dehlan | @dehlandivya | Design Lead — Data & Infrastructure |
+| Member D | Kayla Hammonds | @khammonds530-max | Design Lead — Analysis & Deliverables |
 
 Roles apply to Part 1 only, except that **the Tech Lead owns the main
 repository for the whole course** and is the gatekeeper for merging PRs.
